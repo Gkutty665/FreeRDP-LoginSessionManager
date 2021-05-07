@@ -1,7 +1,7 @@
-# Session Manager login
+# Free RDP Login Session Manager 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sutharp777/FreeRDP-Login/main/demo.gif" height="400"> 
+<img src="https://raw.githubusercontent.com/sutharp777/FreeRDP-LoginSessionManager/demo.gif" height="400"> 
 <p>  
 
 ## run on you linux OS
